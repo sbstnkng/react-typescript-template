@@ -10,3 +10,8 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 1. Run `npm run start`
 2. Open http://localhost:3000 on your browser
+
+## Build Pipeline
+
+This template is using GitHub Actions to test, build and deploy the application to GitHub Pages.
+To use the pipeline for your project, update the `homepage` path to your projects path.
