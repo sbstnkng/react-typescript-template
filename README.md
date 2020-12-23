@@ -1,6 +1,6 @@
 # React Typescript Template
 
-[![Actions Status](https://github.com/sbstnkng/react-typescript-template/workflows/Build%20and%20Deploy/badge.svg)](https://github.com/sbstnkng/react-typescript-template/actions)
+![Build and Deploy](https://github.com/sbstnkng/react-typescript-template/workflows/Build%20and%20Deploy/badge.svg)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat)](https://github.com/prettier/prettier)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
