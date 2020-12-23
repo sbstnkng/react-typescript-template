@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-template/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/react-template/static/js/main.00b81841.chunk.js",
-    "main.js.map": "/react-template/static/js/main.00b81841.chunk.js.map",
-    "runtime-main.js": "/react-template/static/js/runtime-main.3cafbb25.js",
-    "runtime-main.js.map": "/react-template/static/js/runtime-main.3cafbb25.js.map",
-    "static/js/2.a138a957.chunk.js": "/react-template/static/js/2.a138a957.chunk.js",
-    "static/js/2.a138a957.chunk.js.map": "/react-template/static/js/2.a138a957.chunk.js.map",
-    "static/js/3.4321e714.chunk.js": "/react-template/static/js/3.4321e714.chunk.js",
-    "static/js/3.4321e714.chunk.js.map": "/react-template/static/js/3.4321e714.chunk.js.map",
-    "index.html": "/react-template/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/react-template/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.a138a957.chunk.js.LICENSE.txt": "/react-template/static/js/2.a138a957.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/react-template/static/media/logo.6ce24c58.svg"
+    "main.css": "/react-typescript-template/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/react-typescript-template/static/js/main.00b81841.chunk.js",
+    "main.js.map": "/react-typescript-template/static/js/main.00b81841.chunk.js.map",
+    "runtime-main.js": "/react-typescript-template/static/js/runtime-main.9cf0f3ec.js",
+    "runtime-main.js.map": "/react-typescript-template/static/js/runtime-main.9cf0f3ec.js.map",
+    "static/js/2.a138a957.chunk.js": "/react-typescript-template/static/js/2.a138a957.chunk.js",
+    "static/js/2.a138a957.chunk.js.map": "/react-typescript-template/static/js/2.a138a957.chunk.js.map",
+    "static/js/3.4321e714.chunk.js": "/react-typescript-template/static/js/3.4321e714.chunk.js",
+    "static/js/3.4321e714.chunk.js.map": "/react-typescript-template/static/js/3.4321e714.chunk.js.map",
+    "index.html": "/react-typescript-template/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/react-typescript-template/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.a138a957.chunk.js.LICENSE.txt": "/react-typescript-template/static/js/2.a138a957.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-typescript-template/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3cafbb25.js",
+    "static/js/runtime-main.9cf0f3ec.js",
     "static/js/2.a138a957.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
     "static/js/main.00b81841.chunk.js"
