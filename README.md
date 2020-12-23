@@ -1,5 +1,7 @@
 # React Typescript Template
 
+[![Actions Status](https://github.com/sbstnkng/react-typescript-template/workflows/Build%20and%20Deploy/badge.svg)](https://github.com/sbstnkng/react-typescript-template/actions)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
