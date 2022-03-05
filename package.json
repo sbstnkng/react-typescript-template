@@ -37,7 +37,7 @@
     "extends": [
       "react-app",
       "react-app/jest",
-      "prettier/@typescript-eslint",
+      "prettier",
       "plugin:prettier/recommended"
     ],
     "rules": {
@@ -72,10 +72,10 @@
     ]
   },
   "devDependencies": {
-    "eslint-config-prettier": "^7.2.0",
+    "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.0.0",
     "husky": "^7.0.4",
-    "lint-staged": "^12.3.4",
+    "lint-staged": "^12.3.5",
     "prettier": "^2.5.1"
   }
 }
