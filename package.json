@@ -5,7 +5,7 @@
   "homepage": "https://sbstnkng.github.io/react-typescript-template/",
   "dependencies": {
     "react": "^19.0.0",
-    "react-dom": "^19.2.8",
+    "react-dom": "^19.3.0",
     "react-scripts": "5.0.1",
     "typescript": "^5.6.3",
     "web-vitals": "^6.2.1"
@@ -74,7 +74,7 @@
     "@types/jest": "^30.0.0",
     "@types/node": "^26.5.0",
     "@types/react": "^19.2.18",
-    "@types/react-dom": "^19.2.7",
+    "@types/react-dom": "^19.3.0",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-prettier": "^5.5.6",
     "husky": "^9.1.7",
